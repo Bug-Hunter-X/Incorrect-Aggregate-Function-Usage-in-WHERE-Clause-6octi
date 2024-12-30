@@ -1,0 +1,1 @@
+This example demonstrates a common SQL error involving the misuse of aggregate functions within the WHERE clause.  The provided solution shows the correct approach using a HAVING clause.
